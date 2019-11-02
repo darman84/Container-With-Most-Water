@@ -1,14 +1,12 @@
-<<<<<<< HEAD
-<h1 align="center">Welcome to Container-With-Most-Water 👋</h1>
+
+<h1 align="center">Container-With-Most-Water</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
 > Difficulty: MEDIUM<br/>
-=======
-# Container-With-Most-Water
-Difficulty: MEDIUM<br/>
->>>>>>> 7e13f5be0f41d5b1ab522e4910cc380c270eba54
+
+
 Solution created by: Zachary Williams<br/>
 See /Container-With-Most-Water/Source.CPP for finished program/explanation with driver included
 
@@ -34,10 +32,3 @@ Output: 49
 
 👤 **Zachary Williams**
 
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_

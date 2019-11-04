@@ -30,5 +30,5 @@ Output: 49
 
 ## Author
 
-👤 **Zachary Williams**
+👤 **Zachary Williams (aka darman84)**
 

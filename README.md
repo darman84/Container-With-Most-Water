@@ -7,7 +7,7 @@
 > Difficulty: MEDIUM<br/>
 
 ## Author
-Solution created by: Zachary Williams<br/>
+Solution created by: <br/>
 👤 **Zachary Williams (aka darman84)**
 
 
